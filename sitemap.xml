@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gaoxuan.cn/posts/</loc>
-    <lastmod>2021-11-21T23:29:11+08:00</lastmod>
+    <loc>http://gaoxuan.cn/posts/conways-law-a-theoretical-basis-for-the-microservice-architecture/</loc>
+    <lastmod>2021-12-02T00:13:35+08:00</lastmod>
   </url><url>
-    <loc>http://gaoxuan.cn/posts/write-code-every-day/</loc>
-    <lastmod>2021-11-21T23:29:11+08:00</lastmod>
+    <loc>http://gaoxuan.cn/posts/</loc>
+    <lastmod>2021-12-02T00:13:35+08:00</lastmod>
   </url><url>
     <loc>http://gaoxuan.cn/</loc>
+    <lastmod>2021-12-02T00:13:35+08:00</lastmod>
+  </url><url>
+    <loc>http://gaoxuan.cn/posts/write-code-every-day/</loc>
     <lastmod>2021-11-21T23:29:11+08:00</lastmod>
   </url><url>
     <loc>http://gaoxuan.cn/posts/crypto-cities/</loc>
