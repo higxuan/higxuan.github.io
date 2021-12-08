@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">higxuan</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2021-12-08T13:09:56&#43;08:00</updated>
+    <id>https://gaoxuan.cn/</id>
+    <link rel="alternate" type="text/html" href="https://gaoxuan.cn/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://gaoxuan.cn/atom.xml" />
+    <author>
+            <name>higxuan</name>
+            <uri>https://gaoxuan.cn/</uri>
+            
+                <email>higxuan@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.88.1">Hugo</generator>
+        <entry>
+            <title type="text">破坏开发者生产力的12件事</title>
+            <link rel="alternate" type="text/html" href="https://gaoxuan.cn/posts/top-12-things-that-destroy-developer-productivity/" />
+            <id>https://gaoxuan.cn/posts/top-12-things-that-destroy-developer-productivity/</id>
+            <updated>2021-12-08T11:49:29&#43;08:00</updated>
+            <published>2021-12-02T22:19:53&#43;08:00</published>
+            <author>
+                    <name>higxuan</name>
+                    <uri>https://www.gaoxuan.cn/</uri>
+                    <email>higxuan@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">很多文章都是针对技术负责人和工程经理的角色。我们经常遇到的一个共同主题是如何提高一个团队的生产力。但是，在你集中精力试图提高他们的生产力之前，你可能首先要考虑是什么在破坏它，以便你可以建立一个健全的基础。不幸的是，尽管Peopleware是……</summary>
+            
+                <content type="html">&lt;p&gt;很多文章都是针对技术负责人和工程经理的角色。我们经常遇到的一个共同主题是如何提高一个&lt;a href=&#34;https://medium.com/@skamille/engineering-productivity-b1ea12db02e4&#34;&gt;团队的生产力&lt;/a&gt;。但是，在你集中精力试图提高他们的&lt;a href=&#34;https://hackernoon.com/tagged/productivity&#34;&gt;生产力&lt;/a&gt;之前，你可能首先要考虑是什么在破坏它，以便你可以建立一个健全的基础。不幸的是，尽管&lt;a href=&#34;https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=sr_1_1?ie=UTF8&amp;amp;qid=1539196884&amp;amp;sr=8-1&amp;amp;keywords=peopleware&#34;&gt;Peopleware&lt;/a&gt;是在近30年前出版的，但我们看到很多团队以一些（负面的）显著的方式遭受巨大的生产力损失&lt;/p&gt;
+&lt;p&gt;没有人期望程序员在没有接触电脑的情况下完成工作，但有许多公司期望程序员在没有了解他们想法的情况下完成工作。这同样是不现实的。&lt;/p&gt;
+&lt;p&gt;因此，让我们深入探讨一下我们的清单，即阻碍你的&lt;a href=&#34;https://hackernoon.com/tagged/developers&#34;&gt;开发人员&lt;/a&gt; &amp;quot;进入状态 &amp;quot;和提高生产力的12件事情。我将尝试把这个列表从最有影响的到最没有影响的进行优先排序。请自由评论!&lt;/p&gt;
+&lt;p&gt;如果你想知道这一切是否值得投资，只要考虑一下开发人员的工资。即使是增加10%的生产力也是一个很大的数目&lt;/p&gt;
+&lt;h3 id=&#34;1-中断与会议&#34;&gt;1) 中断与会议&lt;/h3&gt;
+&lt;p&gt;在我看来，中断是开发人员的首要生产力杀手。开发人员不能轻易回到他们在中断之前的位置。他们需要进入开发的心态，然后慢慢追溯到他们离开的地方。这很容易需要30分钟以上的时间。而更多的中断导致更多的挫折，更少的工作质量，更多的bug--这一切都在循环往复。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;当我试图开始工作时，你给我的绊脚石越多--我每次尝试的间隔就越长。如果你让我的早晨充满了干扰--当这一天没有收获的时候，请不要感到惊讶。&amp;quot;Reddit上的一位开发者&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;那么会议呢？会议和中断的唯一区别是，会议是有计划的中断，这使得情况更加糟糕。如果开发人员知道他们在工作中会有中断，他们就无法在任务上取得进展。因此，如果他们在一两个小时后有一个会议，他们将无法在任何事情上取得进展，因为大多数工程任务需要更多的时间。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.paulgraham.com/makersschedule.html&#34;&gt;正如保罗-格雷厄姆所写的那样&lt;/a&gt;，&amp;quot;一次会议就可以把整个下午的时间分成两块，每块都太小，无法做任何困难的事情。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这怎么能避免呢？这一部分是有据可查的；你没有任何借口。例如，在一天刚开始时或在午餐前举行简短的状态会议，以避免不必要的中断。&lt;/p&gt;
+&lt;h3 id=&#34;2-微观管理&#34;&gt;2) 微观管理&lt;/h3&gt;
+&lt;p&gt;在不同类型的管理者中，微观管理者可能是对开发者的生产力最差的。当然，微观管理者往往有更多的会议和计划外的干扰。但这并不仅仅是这样。他们表现出缺乏信任，通过这样做，你会觉得他们不断地破坏你的技能和你完成事情的能力。开发人员在中断之间的任何动力在这时都会直接消失。这种影响超越了生产力。微观管理者可能是开发人员离开的第一个原因，或者至少是更换团队。&lt;/p&gt;
+&lt;h3 id=&#34;3-含糊不清&#34;&gt;3) 含糊不清&lt;/h3&gt;
+&lt;p&gt;有很多方法可以说明模糊性。像 &amp;quot;它坏了，修好它！&amp;quot;这样的错误报告没有足够的信息让开发人员据以工作。顺便说一下，在这种情况下，有一个错误报告模板可以帮助。&lt;/p&gt;
+&lt;p&gt;或者对某项功能的规范不明确，在这种情况下，开发人员会开始实施他们感觉正确的东西，一旦管理者更好地详细说明预期行为，他们就不得不从头开始。&lt;/p&gt;
+&lt;p&gt;不明确的优先次序也属于这个类别。开发人员花在怀疑他们是否正在从事正确的任务上的时间可以很容易地避免。如果有一天他们收到经理的评论，问他们为什么在这个特定的任务上工作（而优先级没有被定义）......好吧，你明白了--很多挫折......&lt;/p&gt;
+&lt;h3 id=&#34;4-海鸥管理&#34;&gt;4) 海鸥管理&lt;/h3&gt;
+&lt;p&gt;你听说过这种情况吗？当经理们完全不参与工作时，就会发生这种情况，但是......他们只是偶尔俯冲下来，在所有东西上拉屎。&amp;quot;这是不对的，还有这个，这个看起来很糟糕，&amp;quot;等等，然后又飞走了。我不得不承认我很喜欢这个画面，但不幸的是，这种情况比我们希望的更经常发生。这种行为让开发者深感沮丧；他们在接下来的几个小时内将无法回到这个区域，有时甚至几天内都无法回到这个区域。&lt;/p&gt;
+&lt;h3 id=&#34;5-贪婪的信贷&#34;&gt;5) 贪婪的信贷&lt;/h3&gt;
+&lt;p&gt;你是否曾有过一个经理或其他开发人员，把你在过去几周所做的工作的所有功劳都归于他？开发人员最看重的是能力。抢走别人的功劳，就是把别人的能力占为己有，从他或她那里拿走。这在我的名单上排得很靠前，因为我觉得这造成了很大的紧张，以至于在相当长的一段时间内破坏了整个开发者的生产力。&lt;/p&gt;
+&lt;h3 id=&#34;6-环境---噪声运动工作空间设计&#34;&gt;6) 环境 - 噪声、运动、工作空间设计...&lt;/h3&gt;
+&lt;p&gt;这对非程序员来说可能很奇怪，但开发人员的工作环境对他们的活动有重要影响。例如，有一些白噪声--响亮的空调，听到汽车和卡车的滚动声--有助于他们更好地集中注意力。这就是为什么我们中的许多人都戴上了耳麦!实际上，我刚刚发现&lt;a href=&#34;http://rainymood.com/&#34;&gt;RainyMood&lt;/a&gt;--真的很棒👍!&lt;/p&gt;
+&lt;p&gt;同样地，如果工作空间被设计成有尽可能多的运动，这不会帮助他们集中注意力！或者将台式电脑屏幕的方向设计成对经理人高度可见。或者将台式电脑屏幕的方向设计成对管理人员高度可见......那么，这就会产生一些额外的压力，甚至更多被打断的机会。&lt;/p&gt;
+&lt;h3 id=&#34;7-范围蠕变&#34;&gt;7) 范围蠕变&lt;/h3&gt;
+&lt;p&gt;项目管理中的范围蠕动（也称为焦点蠕动、需求蠕动、功能蠕动，有时也称为厨房水槽综合症）是指项目范围中不受控制的变化。当一个项目的范围没有被正确定义、记录或控制时，就会发生这种情况。&lt;/p&gt;
+&lt;p&gt;范围蠕变将相对简单的请求变成了可怕的复杂和耗时的怪物！而且大多数时候它发生在开发过程中。而且大多数时候，它发生在开发过程中!例如，对于一个简单的功能：第一版（实施前）：功能是 &amp;quot;显示一个地点的地图 &amp;quot;第二版（当第一版快完成时）：功能改为 &amp;quot;显示一个地点的3D地图 &amp;quot;第三版（当第二版快完成时）：功能再次改为 &amp;quot;显示一个用户可以飞过的地点的3D地图&amp;quot;&lt;/p&gt;
+&lt;h3 id=&#34;8-产品定义过程&#34;&gt;8) 产品定义过程&lt;/h3&gt;
+&lt;p&gt;所以这个乍看之下可能很奇怪，但其实很容易理解。如果一个产品团队在定义其团队的优先级时，从来没有验证（通过客户反馈或任何其他方式）相应功能的利益，而开发人员看到大多数功能最终只是没有被使用，他们会觉得他们所做的事情是无用的，并会失去动力。我们都希望感到自己有影响力，而这对开发者来说可能更加重要!&lt;/p&gt;
+&lt;h3 id=&#34;9-缺乏对技术债务的考虑&#34;&gt;9) 缺乏对技术债务的考虑&lt;/h3&gt;
+&lt;p&gt;技术债务是指为了更快地发布软件而故意决定实施不是最好的解决方案或编写不是最好的代码。承担一些技术债务是不可避免的，在短期内可以提高软件开发的速度。然而，从长远来看，它有助于提高系统的复杂性，从而拖慢开发人员的速度。非程序员往往低估了生产力的损失，并倾向于总是向前推进，这就成了一个问题。但是，如果重构从来不是优先事项的一部分，它不仅会影响生产力，也会影响产品质量。&lt;/p&gt;
+&lt;h3 id=&#34;10-工具的多重性和硬件&#34;&gt;10) 工具的多重性和硬件&lt;/h3&gt;
+&lt;p&gt;开发人员每天使用许多工具来编程、推送和合并他们的代码。自动化程度越高越好。不言而喻，如果你使用 &amp;quot;古老 &amp;quot;的工具，这将影响你的生产力。同样，拥有一个大屏幕与只有一台笔记本电脑也会产生影响。考虑到硬件的成本和开发人员的工资，只要有5%的生产力提高，在这一点上，任何投资都是值得的!只要给你的开发者团队喜欢的工具和硬件（单独的硬件，但作为一个团体的工具）。&lt;/p&gt;
+&lt;h3 id=&#34;11-如何-文件&#34;&gt;11) &amp;quot;如何 &amp;quot;文件&lt;/h3&gt;
+&lt;p&gt;当我们学习如何编码时，我们被告知要尽早和经常发表评论。这个想法是，有太多的注释比有太少的注释要好。不幸的是，许多程序员错误地将此理解为他们必须对每一行代码进行注释，这就是为什么我们经常看到这样的代码（来自Jeff Atwood在&lt;a href=&#34;https://blog.codinghorror.com/coding-without-comments/&#34;&gt;&amp;quot;Coding Without Comments&amp;quot;&lt;/a&gt;上的文章）。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;r = n / 2; // 设置r为n除以2&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// 当r - (n/r)大于t时进行循环，而( abs( r - (n/r) )&amp;gt; t ) { r = 0.5 * ( r + (n/r)); // 设置r为r + (n/r)的一半&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;}&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你知道这段代码是做什么的吗？我也不知道。问题是，虽然有很多注释描述了这段代码在做什么，但却没有描述它为什么要这样做。如果程序中有一个错误，而你偶然发现了这段代码，你将不知道从哪里开始。&lt;/p&gt;
+&lt;h3 id=&#34;12-不可能实现的deadline&#34;&gt;12) 不可能实现的Deadline&lt;/h3&gt;
+&lt;p&gt;这最后一个问题与经理们的倾向有关，他们要求开发人员进行估算，然后推动他们尽可能地降低这些估算，然后神奇地将其视为最后期限！经理们甚至会认为，由于开发人员自己 &amp;quot;决定&amp;quot;，他们承诺了最后期限。经理们甚至会认为，由于开发人员自己 &amp;quot;决定 &amp;quot;了估计值，他们承诺了最后期限，因此这些最后期限应该被认为是有效的，足以分享给上层管理人员。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hackernoon.com/hn-images/0*LFt_G9bpH-xaf7R0.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;毫不奇怪，开发人员觉得这些最后期限是不合理的，是任意的紧；这造成了紧张和无法集中注意力。&lt;/p&gt;
+&lt;p&gt;所有这些事情对开发人员来说是独一无二的吗？如果你看一下所有的12件事情，它们实际上对大多数其他基于项目的工作是很常见的。只是其中每一项的影响对开发者来说更加重要，因为他们需要深度专注才能在任务中取得进展。&lt;/p&gt;
+&lt;p&gt;如果你在你的公司内认识到上面提到的一些要点，与你的开发人员一起解决这些问题可能是有趣的。与他们交谈；找出这些是否是一个问题，以及如何解决它。无论他们说什么，最重要的是要相信他们的反馈和见解。虽然今天的技术与30年前有很大不同，但教训仍然是一样的。当你考虑团队生产力时，你不能忽视人的因素。与你的团队反复讨论你的流程、环境和工作习惯，让他们指导你如何拥有最高的生产力和影响力。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190&#34;&gt;原文&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">康威法则--微服务架构的理论基础</title>
+            <link rel="alternate" type="text/html" href="https://gaoxuan.cn/posts/conways-law-a-theoretical-basis-for-the-microservice-architecture/" />
+            <id>https://gaoxuan.cn/posts/conways-law-a-theoretical-basis-for-the-microservice-architecture/</id>
+            <updated>2021-12-02T22:50:03&#43;08:00</updated>
+            <published>2021-12-02T00:13:35&#43;08:00</published>
+            <author>
+                    <name>higxuan</name>
+                    <uri>https://www.gaoxuan.cn/</uri>
+                    <email>higxuan@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">介绍 微服务架构是一个新的概念，已经非常流行，并成为最近研究的热门话题。然而，微服务的实施仍然是松散的，也没有理论上的证据证明其有效性。 你可能会惊讶地发现，微服务的概念是在五十多年前发表的一篇文章中首次提出的。此外，多年来，许多研究已经证明了……</summary>
+            
+                <content type="html">&lt;h2 id=&#34;介绍&#34;&gt;介绍&lt;/h2&gt;
+&lt;p&gt;微服务架构是一个新的概念，已经非常流行，并成为最近研究的热门话题。然而，微服务的实施仍然是松散的，也没有理论上的证据证明其有效性。&lt;/p&gt;
+&lt;p&gt;你可能会惊讶地发现，微服务的概念是在五十多年前发表的一篇文章中首次提出的。此外，多年来，许多研究已经证明了那篇文章中提出的许多观点的准确性。&lt;/p&gt;
+&lt;p&gt;文章中介绍的一个基本概念是&lt;a href=&#34;http://www.melconway.com/Home/Conways_Law.html&#34;&gt;康威法则&lt;/a&gt;。虽然最初是为了指出分布式团队的缺陷，但许多组织已经应用康威法则来创建高效的微服务架构。&lt;/p&gt;
+&lt;p&gt;本文参照Mike Amundsen（《设计RESTful API》的作者）撰写的题为&amp;quot;&lt;a href=&#34;http://www.infoq.com/cn/presentations/team-building-implementation-in-distributed-world&#34;&gt;远距离下的康威法则--分布式世界中的团队建设&lt;/a&gt;&amp;quot;的文章，探讨了康威法则的思想。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/max/700/0*lBElPOghf4SHqear.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;《康威法则》中最著名的一句话是：&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&amp;quot;设计系统的组织被限制在生产设计上，这些设计是这些组织的通信结构的副本&amp;quot;。- Melvin Conway (1967)。&lt;/p&gt;
+&lt;p&gt;这意味着设计系统的组织被限制在生产复制组织的通信结构的设计上。下图说明了这个概念。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.v2ex.co/lAvKd4w4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;该图描述了组织的现有沟通结构，这与他们各自的产品开发过程相吻合。简单地说，组织结构等同于系统设计。&lt;/p&gt;
+&lt;p&gt;这里，作者提到的系统并不限于软件系统。还有人推测，《哈佛商业评论》最初拒绝了这篇文章。因此，康威把它提交给了一家编程杂志，这导致了人们误以为这篇文章是关于软件开发的。一开始，作者并没有把他的想法作为规律提出来，只是描述了他的发现和结论。当著名的《神话般的人月》一书介绍了布鲁克斯定律并引用了康威的一些观点后，康威的想法被普及为我们今天所熟知的康威定律。&lt;/p&gt;
+&lt;h2 id=&#34;康威法则解密&#34;&gt;康威法则解密&lt;/h2&gt;
+&lt;p&gt;迈克-阿蒙森在他的文章中总结了一些核心观点，如下所述。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;法则1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.沟通决定了设计&lt;/p&gt;
+&lt;p&gt;o 组织沟通的模式是通过系统设计来表达的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;法则2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.永远没有足够的时间来做正确的事情，但总有足够的时间来重新做。&lt;/p&gt;
+&lt;p&gt;o 即使有无限的时间，也不可能完美地完成一项任务，但总是有时间来完成一项任务。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;法则3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.从一个系统的线性图到其设计组织的线性图之间存在着同构关系&lt;/p&gt;
+&lt;p&gt;o 线性系统和线性组织结构之间存在同构关系&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;法则4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.大系统的结构在发展过程中往往会解体，在质量上比小系统更容易解体。&lt;/p&gt;
+&lt;p&gt;o 一个大的系统组织比一个小的组织更容易被分解&lt;/p&gt;
+&lt;h2 id=&#34;康威第一定律&#34;&gt;康威第一定律&lt;/h2&gt;
+&lt;p&gt;&amp;quot;人类是复杂的社会动物&amp;quot;。&lt;/p&gt;
+&lt;p&gt;其他领域也提供了一些关于有组织的交流和系统设计之间紧密关系的说明。对于一个复杂的系统来说，设计主题总是涉及到人与人之间的交流。一个好的系统设计要解决关于这种交流的问题。1975年的经典时代《人月神话》中的许多观点与这一观点产生了共鸣。&lt;/p&gt;
+&lt;p&gt;《人月神话》中最令人难忘的一句话是。&lt;/p&gt;
+&lt;p&gt;&amp;quot;为一个晚期的软件项目增加人力会使它更晚&amp;quot;--Fred Brooks, (1975)&lt;/p&gt;
+&lt;p&gt;增加程序员的数量以跟上紧张的进度是许多组织的一个常见陷阱。虽然增加劳动力以提高产出是有道理的，但这并不适用于软件开发领域。&lt;/p&gt;
+&lt;p&gt;为什么会出现这种情况？神话般的人月提供了一个简单的答案。沟通成本随着项目或组织中人员数量的增加而呈指数级增长。沟通成本可以用公式n(n-1)/2来计算，其中项目管理算法的复杂性为O(n²)。下面的例子说明了沟通成本的概念。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对于一个有5个成员的项目组，所需的沟通渠道数量为5*(5-1)/2=10。&lt;/li&gt;
+&lt;li&gt;对于一个有15名成员的项目组，所需的沟通渠道数量为15*(15-1)/2=105。&lt;/li&gt;
+&lt;li&gt;对于一个有50名成员的项目组，所需的沟通渠道数量为50*(50-1)/2=1225。&lt;/li&gt;
+&lt;li&gt;对于一个有150名成员的项目组，所需的沟通渠道数量为150*(150-1)/2=11,175。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这也是互联网创业公司拥有小团队的主要原因。如果一家初创企业有太多的员工，那么在首席执行官向每个人介绍他/她的想法后，它将很快耗尽来自VC的投资。&lt;/p&gt;
+&lt;p&gt;生物学家罗宾-邓巴在1992年提出的另一个有趣的相关理论被称为 &amp;quot;邓巴数字&amp;quot;。起初，邓巴发现，一种灵长类动物的大脑容量与它的人口规模相关。然后他对一个人的大脑所能维持的关系数量进行了一些估计。例如，一个典型的人将有&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5个亲密的朋友&lt;/li&gt;
+&lt;li&gt;15位值得信赖的朋友&lt;/li&gt;
+&lt;li&gt;35位密友&lt;/li&gt;
+&lt;li&gt;150位临时朋友&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/max/1280/0*0Cns1utv3fDEG0zB.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;他们不是似乎与上述的沟通成本有关吗？是的，我们的大脑限制我们只能维持这么多的关系。(在一个开发团队中，这个数字可能更小）。&lt;/p&gt;
+&lt;p&gt;沟通问题会导致系统设计问题，影响整个系统的开发效率以及产品开发的最终结果。&lt;/p&gt;
+&lt;h2 id=&#34;康威第二定律&#34;&gt;康威第二定律&lt;/h2&gt;
+&lt;p&gt;&amp;quot;罗马不是在一天之内建成的。先解决可以解决的问题。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Erik Hollnagel，敏捷开发领域的巨头之一，在他的《效率-彻底的权衡》一书中解释了一些类似的观点。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;问题太复杂？忽略细节。没有足够的资源？放弃功能。&amp;quot;--Erik Hollnagel (2009)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/max/700/0*ucyDZj_UHOwo7IMH.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://miro.medium.com/max/700/0*jdc1CPWG9N2H6NNL.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;系统的复杂性、功能的数量、市场竞争和投资者的期望都在增加，但人的智慧却始终不变。任何组织都不能确定是否能找到足够的人才，不管有多少能力和资金。对于一个极其复杂的系统，总会有一些东西被操作者忽视。埃里克认为，解决这个问题的最好办法就是 &amp;quot;顺其自然&amp;quot;。&lt;/p&gt;
+&lt;p&gt;在日常开发任务中，我们经常遇到这样的问题。产品经理提出的需求是否过于复杂？如果是这样，请忽略一些次要的需求，先关注主要的需求。产品经理的要求是否太多？如果是，就放弃一些功能。&lt;/p&gt;
+&lt;p&gt;报道指出，埃里克曾经收到一家航空公司的邀请，为一个飞行系统的稳定性和安全性提供咨询服务。埃里克认为，可以通过两种手段来确保安全。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;为了确保理想的安全，人们必须尽可能多地发现和消除错误。&lt;/li&gt;
+&lt;li&gt;为确保弹性安全，人们必须及时处理发生的错误，以利于服务恢复。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;对于像飞行系统这样复杂的系统，无论测试人员多么优秀，一些漏洞都有可能被忽略。因此，埃里克建议公司放弃建立一个完美系统的想法。相反，他建议相对的安全性和正确性，即承运人进行持续的飞行测试以发现问题，并确保系统在发生故障时能自动恢复。下图显示了对安全的不同解释。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/max/1400/0*m6n8SYSR8FzhDKoh.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这听起来很熟悉吗？这不是意味着持续集成和敏捷开发吗？绝对是的。&lt;/p&gt;
+&lt;p&gt;上述原则与适用于互联网公司所维护的分布式系统的弹性是一样的。即使单元测试覆盖了整个系统，也不可能识别和修复分布式系统中的所有bug。分布式系统很容易出现错误。最佳的解决方案不是消除所有的问题，而是容忍它们，并在发生故障时实施自动恢复。在一个由微服务组成的系统中，每个微服务都可能停止响应，这是完全正常的。我们只需要保证足够的冗余和备份，这也被称为弹性或高可用性设计。&lt;/p&gt;
+&lt;h2 id=&#34;康威第三定律&#34;&gt;康威第三定律&lt;/h2&gt;
+&lt;p&gt;&amp;quot;创建独立的子系统以减少通信成本&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这张图代表了根据康威第一定律，组织和系统设计之间内部关系的具体应用。简单地说，建立一个适合你想要的系统的团队。如果你有一个前端团队，一个Java后端开发团队，一个DBA团队，和一个O&amp;amp;M团队，你的系统就会是下面这个样子。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/max/1400/0*anAmu9yzlss0Uh3y.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;相反，如果业务边界在你的系统中产生了划分，所有成员将他们的模块变成小系统或产品，以解决相同的业务目标，你的大系统将看起来像一个微服务架构，如下所示。&lt;/p&gt;
+&lt;p&gt;团队之间的微服务的想法应该是 &amp;quot;相互操作，而不是整合&amp;quot;。互操作意味着定义系统的边界和接口，并为整个团队提供完整的堆栈，实现完全的自主性。如果一个团队的设置遵循这个猜想，就会产生系统内的通信成本，子系统会有更多的通信。这样的安排会使系统间的依赖性减少，系统间的通信成本降低。&lt;/p&gt;
+&lt;h2 id=&#34;康威第四定律&#34;&gt;康威第四定律&lt;/h2&gt;
+&lt;p&gt;&amp;quot;分而治之&amp;quot;。&lt;/p&gt;
+&lt;p&gt;如上所述，人类是复杂的社会动物，人与人之间的沟通是非常复杂的。当涉及到一个系统时，我们往往选择增加人力来减少其复杂性。对于我们的组织来说，我们如何解决这样的沟通问题？分而治之。看看你的公司，在你的公司里，一个一线经理管理不到15个人，一个二线经理管理的人比一线经理少，一个三线经理管理的人比二线经理更少，等等，难道不是这样吗？(我并不是在暗示管理开发经理比管理程序员更难）。&lt;/p&gt;
+&lt;p&gt;因此，一个大型组织通常有小的团队部门，以减少沟通成本/管理问题。这里有一些情况供你考虑。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;创业的想法是如此之好。让我们招募更多的程序员。总之，风险投资公司给了我们一大笔钱。&lt;/li&gt;
+&lt;li&gt;有太多的人需要管理。我需要找几个经理来帮忙，并向我报告。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;康威法则还告诉我们，我们可以从系统设计中看到组织沟通模式。每个经理人都对一个大系统的一小部分负责某种职责。这样一来，他们和大系统之间就有了沟通的界限。因此，大系统包含了负责小系统的小部门团队（微服务很好地满足了这一点）。&lt;/p&gt;
+&lt;h2 id=&#34;康威法则和微服务&#34;&gt;康威法则和微服务&lt;/h2&gt;
+&lt;p&gt;让我们来看看半个世纪前康威定律是如何为微服务提供理论基础的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;人与人之间的沟通是复杂的，每个人用于沟通的精力是有限的。因此，当一个问题很复杂，需要协同解决的时候，我们需要对组织进行分工，以提高沟通效率。&lt;/li&gt;
+&lt;li&gt;一个组织的成员在其中工作的系统设计，取决于成员之间的沟通。管理者可以调整分工模式，实现团队之间不同的沟通方式，这将影响系统的设计。&lt;/li&gt;
+&lt;li&gt;如果一个子系统是通信的，并且有明确的外部通信边界，那么我们就可以有效地降低通信成本，相应的设计也会更加合适和高效。&lt;/li&gt;
+&lt;li&gt;需要在容错性和弹性的帮助下不断优化一个复杂的系统。不要期待大而全的设计或架构，因为它们的发展是以迭代的方式进行的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这里有一些实用的建议。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;充分利用所有可能的手段来提高沟通效率，如Slack、Github和Wiki。只与相关人员进行沟通。每个人和每个系统都必须有明确的职责。你必须知道在出现问题时应该向谁求助，以确保责任。&lt;/li&gt;
+&lt;li&gt;在MVP模式下设计一个系统，以迭代的方式验证和优化系统，并确保系统具有弹性。&lt;/li&gt;
+&lt;li&gt;采用一个与你的系统设计相一致的团队，如果可能的话，精简团队。一个似是而非的建议是，只要有可能，就按部门设立团队，这样每个团队都是自主的、沟通的。明确部门的界限，以减少外部的沟通成本。每个小团队必须在整个模块生命周期内对其模块负责。防止界限模糊和推卸责任。在各团队之间建立 &amp;quot;相互操作，而不是整合 &amp;quot;的关系。&lt;/li&gt;
+&lt;li&gt;培养小型高效的团队，因为当团队成员数量增加时，成本会增加，效率会降低。亚马逊的首席执行官杰夫-贝索斯（Jeff Bezos）有一个有趣的经验法则：如果两个披萨不够一个团队吃，那么这个团队就过大了。通常情况下，一个互联网公司的小型产品团队由7至8人组成。(这些人包括负责前端和后端测试、交互和用户研究的人）。有些人可能有多项任务分配）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当看到下面的微服务标准时，我们可以很容易地看到微服务和康威法则之间的密切关系。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;由分布式服务组成的系统&lt;/li&gt;
+&lt;li&gt;按业务线划分的组织机构&lt;/li&gt;
+&lt;li&gt;开发优秀的产品，而不是项目&lt;/li&gt;
+&lt;li&gt;智能端点(Smart endpoints)和哑巴管道(dumb pipes)（这指的是能力强的个人和轻度的通信工作）&lt;/li&gt;
+&lt;li&gt;自动运行和管理（DevOps）。&lt;/li&gt;
+&lt;li&gt;错误容忍&lt;/li&gt;
+&lt;li&gt;快速迭代&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;结论&#34;&gt;结论&lt;/h2&gt;
+&lt;p&gt;本文介绍了康威定律，并探讨了它们是否为微服务的概念提供了理论上的解释。它详细讨论了四个定律以及每个定律的应用。第一条定律谈到了通信和系统设计之间的联系。第二条定律谈到了有效地完成任务，完美不是一个可实现的目标，因此不应该成为延迟完成任务的理由。相反，人们应该专注于按时完成任务，并定期改进。第三条定律谈到了线性系统和线性组织结构之间存在的同构性。最后，第四条定律讨论了人们可以利用 &amp;quot;分而治之 &amp;quot;的方法来减少大型企业内部沟通的复杂性和成本。&lt;/p&gt;
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.infoq.com/cn/presentations/team-building-implementation-in-distributed-world&#34;&gt;远距离下的康威法则--分布式世界中的团队建设&lt;/a&gt; (本文图片来自PPT的截图)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Conway%27s_law&#34;&gt;Conway&#39;s Law in wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.melconway.com/Home/Conways_Law.html&#34;&gt;康威法律主页&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://alibaba-cloud.medium.com/conways-law-a-theoretical-basis-for-the-microservice-architecture-c666f7fcc66a&#34;&gt;原文&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">每天坚持写代码</title>
+            <link rel="alternate" type="text/html" href="https://gaoxuan.cn/posts/write-code-every-day/" />
+            <id>https://gaoxuan.cn/posts/write-code-every-day/</id>
+            <updated>2021-11-21T23:36:04&#43;08:00</updated>
+            <published>2021-11-21T23:29:11&#43;08:00</published>
+            <author>
+                    <name>higxuan</name>
+                    <uri>https://www.gaoxuan.cn/</uri>
+                    <email>higxuan@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">John Resig这篇blog，如何坚持自己的副业代码，非常受益。程序员尤其是在国内，大多会遇到35岁的职业危机，在努力工作之余，常常看下这篇文章，为自己将来能在失业的情况下依然能有一个副业来努力，也许并不是编程，也可以是其他的爱好，但一定要坚持……</summary>
+            
+                <content type="html">&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;John Resig这篇blog，如何坚持自己的副业代码，非常受益。程序员尤其是在国内，大多会遇到35岁的职业危机，在努力工作之余，常常看下这篇文章，为自己将来能在失业的情况下依然能有一个副业来努力，也许并不是编程，也可以是其他的爱好，但一定要坚持。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href=&#34;https://johnresig.com/blog/write-code-every-day/&#34;&gt;原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;去年秋天，我在&lt;a href=&#34;https://github.com/jeresig&#34;&gt;编码方面的工作&lt;/a&gt;进入了困境。我没有取得足够的进展，而且我无法在不牺牲我在可汗学院(&lt;a href=&#34;https://www.khanacademy.org/&#34;&gt;Khan Academy&lt;/a&gt;)的有效工作能力的情况下找到一种方法来完成更多工作。&lt;/p&gt;
+&lt;p&gt;我的副业项目的工作方式有几个主要问题。我主要是在周末工作，有时是在一周的晚上。事实证明，这种策略对我来说并不奏效。我背负着难以置信的压力，试图在周末完成尽可能多的高质量的工作（如果我无法完成，就感觉是失败）。这是一个问题，因为不能保证每个周末都是自由的--也不能保证我想在两天内整天编程（消除任何放松或做任何有趣事情的机会）。&lt;/p&gt;
+&lt;p&gt;还有一个问题是，间隔一周的时间来处理一些代码是很漫长的，很容易忘记你在做什么，或者你上一次做到了哪里（即使你记了笔记）。更不用说如果你错过了一个周末，你最终会有两个星期的差距。这种大规模的多周背景转换可能是致命的（我有许多副业项目由于这样的注意力饥饿而死亡）。&lt;/p&gt;
+&lt;p&gt;詹妮弗-德瓦特( &lt;a href=&#34;http://jenniferdewalt.com/&#34;&gt;Jennifer Dewalt&lt;/a&gt;)去年完成了一项令人难以置信的工作，她通过在180天内建立180个网站来教自己编程，受此启发，我觉得有必要尝试类似的策略：每天都在做我的副业项目。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SsevWYY.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我决定为自己制定几条规则。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;我必须每天写代码。我可以写文档，或博客文章，或其他东西，但它必须是在我写的代码之外。&lt;/li&gt;
+&lt;li&gt;它必须是有用的代码。不能调整缩进，不能重新格式化代码，如果可能的话，也不能重构。(所有这些事情都是允许的，但不能作为当天的独家工作）。&lt;/li&gt;
+&lt;li&gt;所有的代码都必须在午夜之前写好。&lt;/li&gt;
+&lt;li&gt;代码必须是开源的，并且在Github上。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其中一些规则是任意的。严格来说，代码不需要在当天的午夜前写好，但我想避免熬夜写马虎的代码。代码也不需要是开源的或在Github上的。这只是迫使我更加注意我所写的代码（考虑到可重用性并决定在过程中更早地创建模块）。&lt;/p&gt;
+&lt;p&gt;到目前为止，我已经非常成功了，我已经接近连续工作20周了。我想把它写下来，因为它完全改变了我的编码方式，对我的生活和心理产生了实质性的影响。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jeresig&#34;&gt;&lt;img src=&#34;https://i.imgur.com/5zjbxsz.jpg&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;考虑到这一点，由于这种习惯的改变，发生了许多有趣的事情。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最小可行代码&lt;/strong&gt;。我被迫每天写不少于30分钟的代码。(在更短的时间内写出有意义的代码真的很困难，尤其是在记住了前一天你离开的地方之后)。有些工作日我的工作时间会多一点（通常不超过一小时），在周末我有时能工作一整天。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;把编码形成习惯&lt;/strong&gt;。需要注意的是，我并不特别关心上述Github图表的外在看法。我认为这是这个实验中最重要的收获：这是关于你为自己的生活所做的改变，而不是为了满足别人对你工作的看法而做的改变。任何形式的节食或锻炼也是如此：如果你不关心改善自己，那么你就永远不会真正成功。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与焦虑作斗争&lt;/strong&gt;。在开始这项实验之前，我经常会因为没有完成 &amp;quot;足够的 &amp;quot;工作或没有取得 &amp;quot;足够的 &amp;quot;进展而感到高度焦虑（由于我的副业项目没有具体的最后期限，这两者都是相对无法量化的）。我意识到，&lt;strong&gt;取得进展的感觉与取得实际进展同样重要&lt;/strong&gt;。这让我大开眼界。一旦我开始每天取得持续的进展，焦虑就开始融化了。我对自己所完成的工作量感到很平静，我不再有急于完成任何工作的强烈愿望。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周末&lt;/strong&gt;。在周末完成工作，对取得前进的动力绝对是至关重要的（因为通常情况下，只有在周末我才能完成重要的辅助项目编码）。现在情况不是这样了--这是一件好事。在周末期间，我对自己应该完成的工作建立了为期一周的期望，但最终却让我失望了。我很少能够完成所有我想要的工作，这迫使我拒绝其他我喜欢的周末活动（吃点心、参观博物馆、去公园、与我的伙伴共度时光等等），而选择完成更多的工作。我强烈地感觉到，虽然副业真的很重要，但它们不应该被排除在一般的生活之外。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;背景处理&lt;/strong&gt;。每天写副业代码的一个有趣的副作用是，你当前的任务经常在你的脑海中运行。因此，当我去散步，或洗澡，或任何其他我参加的非用脑活动时，我都在想我以后要编码的内容，并找到解决这个问题的好方法。当我每周或每隔一周进行一次编码工作时，这种情况并没有发生。相反，这些时间被消耗在思考其他任务上，或者，通常被对没有完成任何副业的焦虑所取代。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;情境转换&lt;/strong&gt;。在恢复一个副项目的工作时，总是会有一个上下文转换的成本。不幸的是，在整整一个星期的工作中，要恢复对一个项目的思考是非常困难的。每日工作在这方面很有帮助，因为工作之间的间隔时间更短，使我更容易记住我在做什么。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工作平衡&lt;/strong&gt;。这一变化最重要的一个方面是在简单地学习如何更好地平衡工作/生活/副业项目。由于知道我每天都要为这个项目工作，我必须更好地平衡我的时间。如果我被安排在晚上外出，直到很晚才回来，那么我就需要在一天中的早期进行我的副业，然后再开始我在可汗学院的主要工作。此外，如果我还没有完成我的工作，而我出去得很晚，那么我就会赶紧回家完成它（而不是错过一天）。我应该注意到，我发现我花在爱好上的时间更少了（如木版画），但这是一个合理的折衷，我需要接受。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;外在的感知&lt;/strong&gt;。这一切都有一个额外的好处，那就是将这个新的习惯对外交流。我的伙伴明白我每天都必须完成这项工作，因此有时必须围绕它安排活动。能够说 &amp;quot;是的，我们可以出去玩/看电影/等等，但我必须在晚些时候完成我的编码&amp;quot;，并得到理解和考虑，这是相当令人安慰的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;写了多少代码&lt;/strong&gt;？我很难相信在过去几个月里我写了多少代码。我创建了几个新的网站，重写了一些框架，并创建了大量的新节点模块。我写了这么多东西，有时会忘记我所做的事情--甚至几周前的工作都好像是遥远的记忆。我对我所完成的工作量感到非常满意。&lt;/p&gt;
+&lt;p&gt;我认为这种习惯的改变是一个巨大的成功，并希望在我力所能及的情况下继续下去。同时，我将尽我所能向其他希望完成大量副业的人推荐这一策略。如果这个技巧对你有用，或者没用，请告诉我(&lt;a href=&#34;https://johnresig.com/about/&#34;&gt;Let me know&lt;/a&gt;)--我非常想听到更多的轶事！&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">数字城市</title>
+            <link rel="alternate" type="text/html" href="https://gaoxuan.cn/posts/crypto-cities/" />
+            <id>https://gaoxuan.cn/posts/crypto-cities/</id>
+            <updated>2021-12-02T23:15:19&#43;08:00</updated>
+            <published>2021-11-12T20:45:22&#43;08:00</published>
+            <author>
+                    <name>higxuan</name>
+                    <uri>https://www.gaoxuan.cn/</uri>
+                    <email>higxuan@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">原文 特别感谢傻子先生和Tina Zhen对帖子的早期反馈，并感谢一大堆人对想法的讨论。 去年一个有趣的趋势是人们对地方政府的兴趣增长，以及对地方政府具有更广泛的差异性和做更多实验的想法。在过去的一年里，迈阿密市长弗朗西斯-苏亚雷斯采取了类似于科……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;a href=&#34;https://vitalik.ca/general/2021/10/31/cities.html&#34;&gt;原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;特别感谢傻子先生和Tina Zhen对帖子的早期反馈，并感谢一大堆人对想法的讨论。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;去年一个有趣的趋势是人们对地方政府的兴趣增长，以及对地方政府具有更广泛的差异性和做更多实验的想法。在过去的一年里，迈阿密市长弗朗西斯-苏亚雷斯采取了类似于科技创业公司的&lt;a href=&#34;https://twitter.com/francissuarez/status/1335037068108554241&#34;&gt;推特密集型&lt;/a&gt;战略来吸引人们对该市的兴趣，经常在推特上与主流&lt;a href=&#34;https://twitter.com/nedsegal/status/1441431098672644102&#34;&gt;科技行业&lt;/a&gt;和&lt;a href=&#34;https://twitter.com/FrancisSuarez/status/1443575122875404294&#34;&gt;加密货币社区&lt;/a&gt;进行&lt;a href=&#34;https://twitter.com/francissuarez/status/1335037068108554241&#34;&gt;互动&lt;/a&gt;。怀俄明州现在有一个&lt;a href=&#34;https://www.jdsupra.com/legalnews/crypto-daos-and-the-wyoming-frontier-9251606/&#34;&gt;有利于DAO的法律结构&lt;/a&gt;，科罗拉多州正在&lt;a href=&#34;https://www.wired.com/story/colorado-quadratic-voting-experiment/&#34;&gt;实验二次投票&lt;/a&gt;，我们看到越来越多的实验为线下世界制造更多&lt;a href=&#34;https://www.vox.com/the-goods/2019/10/28/20932554/new-york-san-francisco-car-free-zones&#34;&gt;有利于行人的街道环境&lt;/a&gt;。我们甚至看到不同程度的激进项目--&lt;a href=&#34;https://culdesac.com/&#34;&gt;Cul de sac&lt;/a&gt;、&lt;a href=&#34;https://cityoftelosa.com/&#34;&gt;Telosa&lt;/a&gt;、&lt;a href=&#34;https://www.citydao.io/&#34;&gt;CityDAO&lt;/a&gt;、&lt;a href=&#34;https://nkwashi.com/&#34;&gt;Nkwashi&lt;/a&gt;、&lt;a href=&#34;https://prospera.hn/&#34;&gt;Prospera&lt;/a&gt;以及更多--试图从头创建整个社区和城市。&lt;/p&gt;
+&lt;p&gt;去年另一个有趣的趋势是加密货币理念的迅速主流化，如硬币、不可伪造的代币和去中心化的自治组织(DAO)。那么，如果我们把这两个趋势结合起来，会发生什么呢？一个城市有一个硬币、一个NFT、一个DAO、一些用于反腐的链上记录，甚至四者都有意义吗？事实证明，已经有人在尝试这样做了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.citycoins.co&#34;&gt;CityCoins.co&lt;/a&gt;&lt;/strong&gt;，这个项目设立了旨在成为当地交易媒介的硬币，其中硬币的部分发行量归市政府所有。&lt;a href=&#34;https://www.citycoins.co/miamicoin&#34;&gt;MiamiCoin&lt;/a&gt;已经存在，而 &amp;quot;旧金山币 &amp;quot;似乎也即将到来。&lt;/li&gt;
+&lt;li&gt;其他关于硬币发行的实验(例如，见&lt;a href=&#34;https://www.coindesk.com/markets/2018/04/02/south-koreas-capital-is-planning-to-launch-its-own-cryptocurrency&#34;&gt;首尔的这个项目&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;用NFTs进行实验&lt;/strong&gt;，通常是作为资助当地艺术家的一种方式。&lt;a href=&#34;https://level19.notion.site/level19/NFT-Busan-2021-The-NFT-Port-of-Asia-95e9274927024a81aa7e716f1bcfbcf0&#34;&gt;Busan&lt;/a&gt;正在举办一个由政府支持的会议，探索他们可以用NFTs做什么。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;里诺市市长希拉里-希弗(Hillary Schieve)对&lt;a href=&#34;https://youtube.com/watch?v=uqXW0Kt-RzU&#34;&gt;区块链化&lt;/a&gt;城市的&lt;a href=&#34;https://thisisreno.com/2021/04/mayor-schieve-wants-to-save-the-space-whale-by-turning-it-into-an-nft/&#34;&gt;扩张&lt;/a&gt;愿景&lt;/strong&gt;，包括&lt;a href=&#34;https://mobile.twitter.com/mayorschieve/status/1367926043563094017?lang=en&#34;&gt;NFT销售&lt;/a&gt;以支持当地艺术，一个向当地居民发放RenoCoins的RenoDAO，可以从政府出租物业中获得收入，区块链担保的彩票，区块链投票等等。&lt;/li&gt;
+&lt;li&gt;更加雄心勃勃的项目**从头开始创建面向加密货币的城市：见&lt;a href=&#34;https://www.citydao.io/&#34;&gt;CityDAO&lt;/a&gt;，它将自己描述为，嗯，&amp;quot;在以太坊区块链上建立一个城市&amp;quot;--DAO化治理和所有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但这些项目，以其目前的形式，是好的想法吗？是否有任何改变可以使它们成为更好的想法？让我们来了解一下...&lt;/p&gt;
+&lt;h2 id=&#34;我们为什么要关心城市&#34;&gt;我们为什么要关心城市？&lt;/h2&gt;
+&lt;p&gt;世界各地的许多国家政府在应对长期存在的问题和人民基本需求的快速变化方面表现得效率低下，行动缓慢。简而言之，许多国家的政府都缺少&lt;a href=&#34;https://medium.com/@samo.burja/live-versus-dead-players-2b24f6e9eae2&#34;&gt;活的参与者&lt;/a&gt;。更糟糕的是，今天正在考虑或实施的国家治理的许多发散性的政治想法，说实话是相当可怕的。你想让美国&lt;a href=&#34;https://amgreatness.com/2021/08/01/the-salazar-option/&#34;&gt;由二战时期葡萄牙独裁者安东尼奥-萨拉扎的克隆人接管&lt;/a&gt;，或者也许是一个&lt;a href=&#34;https://americanmind.org/audio/the-stakes-the-american-monarchy/&#34;&gt;&amp;quot;美国凯撒&amp;quot;&lt;/a&gt;，来打倒美国左派的邪恶祸患吗？对于每一个可以合理地描述为扩大自由或民主的想法，都有十个只是不同形式的中央控制和围墙以及普遍监视。&lt;/p&gt;
+&lt;p&gt;现在考虑一下地方政府。&lt;strong&gt;城市和州，正如我们从本帖开头的例子中所看到的那样，至少在理论上是能够有真正的活力的&lt;/strong&gt;。城市之间存在着巨大的、非常真实的文化差异，因此，找到一个有公众兴趣采用任何特定激进想法的城市，比说服整个国家接受它要容易。在地方公共产品、城市规划、交通和城市治理的许多其他部门，都有非常真实的挑战和机会可以解决。城市有紧密凝聚的内部经济，像广泛的加密货币采用这样的事情可以现实地独立发生。此外，城市内部的实验不太可能导致可怕的结果，这是因为城市由更高层次的政府监管，也因为城市有一个更容易的逃生阀：对正在发生的事情不满意的人可以更容易退出。&lt;/p&gt;
+&lt;p&gt;因此，总而言之，地方政府层面似乎是一个非常被低估的层面。鉴于对现有&lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/1473095216645631?journalCode=plta&#34;&gt;智慧城市计划&lt;/a&gt;的&lt;a href=&#34;https://en.wikipedia.org/wiki/Smart_city&#34;&gt;批评&lt;/a&gt;往往主要集中在对集中治理、缺乏透明度和&lt;a href=&#34;https://www.theatlantic.com/technology/archive/2018/11/google-sidewalk-labs/575551/&#34;&gt;数据隐私&lt;/a&gt;的担忧上，区块链和加密技术似乎是一个很有前途的关键因素，可以实现更开放和参与性的前进。&lt;/p&gt;
+&lt;h2 id=&#34;城市项目今天有什么进展&#34;&gt;城市项目今天有什么进展？&lt;/h2&gt;
+&lt;p&gt;实际上是相当多的!这些实验中的每一个都仍然是小规模的，而且在很大程度上仍在努力寻找自己的方式，但它们至少都是可能变成有趣的东西的种子。许多最先进的项目都在美国，但世界各地都有兴趣；在韩国，釜山政府正在&lt;a href=&#34;https://level19.notion.site/level19/NFT-Busan-2021-The-NFT-Port-of-Asia-95e9274927024a81aa7e716f1bcfbcf0&#34;&gt;举办NFT会议&lt;/a&gt;。以下是今天正在做的几个例子。&lt;/p&gt;
+&lt;p&gt;###里诺的区块链实验&lt;/p&gt;
+&lt;p&gt;内华达州里诺市市长&lt;a href=&#34;https://en.wikipedia.org/wiki/Hillary_Schieve&#34;&gt;Hillary Schieve&lt;/a&gt;是一个区块链爱好者，主要关注Tezos生态系统，她最近一直在探索区块链相关的想法(见&lt;a href=&#34;https://youtu.be/uqXW0Kt-RzU&#34;&gt;她的播客&lt;/a&gt;)在她的城市治理中。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;出售NFT以资助当地艺术&lt;/strong&gt;，从城市中央的&lt;a href=&#34;https://thisisreno.com/2021/04/mayor-schieve-wants-to-save-the-space-whale-by-turning-it-into-an-nft/&#34;&gt;&amp;quot;太空鲸 &amp;quot;雕塑&lt;/a&gt;的NFT开始&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创建一个里诺DAO&lt;/strong&gt;，由里诺币管理，里诺居民有资格通过空投获得。里诺DAO可以开始获得收入来源；一个&lt;a href=&#34;https://youtu.be/uqXW0Kt-RzU?t=904&#34;&gt;提议的想法&lt;/a&gt;是城市出租其拥有的房产，收入进入DAO。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;使用区块链来保证各种进程的安全&lt;/strong&gt;：赌场的区块链安全随机数生成器，区块链安全的&lt;a href=&#34;https://vitalik.ca/general/2021/05/25/voting2.html&#34;&gt;投票&lt;/a&gt;等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://vitalik.ca/images/cities/reno.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;里诺空间鲸鱼。&lt;a href=&#34;https://www.flickr.com/photos/rocor/44153615962&#34;&gt;来源：这里&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;###CityCoins.co&lt;/p&gt;
+&lt;p&gt;CityCoins.co是一个建立在Stacks上的项目，这是一个由不寻常的 &amp;quot;转移证明&amp;quot;(出于某种原因缩写为PoX而不是PoT)&lt;a href=&#34;https://uploads-ssl.webflow.com/5ff21113877dd72b9f913b35/6154471366c15dae30133499_pox.pdf&#34;&gt;区块生产算法&lt;/a&gt;运行的区块链，围绕比特币区块链和生态系统建立。该币70%的供应量是由一个持续的销售机制产生的：任何拥有STX(斯塔克斯原生代币)的人都可以将他们的STX发送到城市币合约，以产生城市币；STX的收入被分配给现有的城市币持有者，他们将自己的币入股。剩余的30%则提供给市政府。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;城市币做出了一个有趣的决定，即试图做出一个不依赖任何政府支持的经济模式&lt;/strong&gt;。地方政府不需要参与创建CityCoins.co币；社区团体可以自己发起一个币。一个&lt;a href=&#34;https://www.citycoins.co/citycoins-faq&#34;&gt;常见问题&lt;/a&gt;提供的关于 &amp;quot;我可以用CityCoins做什么？&amp;quot;的答案包括 &amp;quot;CityCoins社区将创建使用代币进行奖励的应用程序 &amp;quot;和 &amp;quot;当地企业可以向......堆积CityCoins的人提供折扣或福利 &amp;quot;等例子。然而，在实践中，迈阿密币社区并不是单独行动，迈阿密政府已经&lt;a href=&#34;https://www.coindesk.com/business/2021/09/23/miamicoin-going-mainstream-faster-than-bitcoin-mayor-suarez-says/&#34;&gt;事实上公开认可&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://vitalik.ca/images/cities/miamicoin.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.citycoins.co/post/announcing-the-winners-of-miamicoin-makers-month&#34;&gt;迈阿密币黑客马拉松&lt;/a&gt;获奖者：一个允许协同工作空间向迈阿密币持有人提供优惠的网站。&lt;/p&gt;
+&lt;p&gt;###市DAO&lt;/p&gt;
+&lt;p&gt;CityDAO是最激进的实验。迈阿密和里诺是现有的城市，有现有的基础设施需要升级，人们需要被说服，而CityDAO则不同，它是根据怀俄明州&lt;a href=&#34;https://www.jdsupra.com/legalnews/crypto-daos-and-the-wyoming-frontier-9251606/&#34;&gt;DAO法&lt;/a&gt;具有合法地位的DAO(见他们的文件&lt;a href=&#34;https://lh3.googleusercontent.com/Dxf308mA8zXr6ZOinvzgOFcydXV9lzE3ALcVswb70V1Ngaers6_PTDio4UVFxUoh91sm2N_h2QCCSS2JSzaE2ufZRjuLeqQsNyeEMw=s0&#34;&gt;这里&lt;/a&gt;)，试图从头开始创建全新的城市。&lt;/p&gt;
+&lt;p&gt;到目前为止，该项目仍处于早期阶段。该团队目前正在敲定&lt;a href=&#34;https://twitter.com/CityDao/status/1442247714729861121&#34;&gt;购买&lt;/a&gt;他们在&lt;a href=&#34;https://www.google.com/maps/place/44%C2%B055&#39;21.9%22N+109%C2%B015&#39;28.0%22W/@44.9215127,-109.2611115,1702m/data=%EF%BC%813m1%EF%BC%811e3%EF%BC%814m5%EF%BC%813m4%EF%BC%811s0x0%EF%BC%9A0x0%EF%BC%818m2%EF%BC%813d44.92274%EF%BC%814d-109.25779&#34;&gt;怀俄明州一个遥远的角落&lt;/a&gt;的首块土地。计划从这块地开始，然后在未来增加其他地块，建立城市，由DAO管理，并大量使用&lt;a href=&#34;https://podofjake.com/2021/09/15/78-scott-fitsimones/&#34;&gt;哈伯格税等激进的经济思想&lt;/a&gt;来分配土地，做出集体决策和管理资源。他们的DAO是&lt;a href=&#34;https://vitalik.ca/general/2021/08/16/voting3.html&#34;&gt;避免硬币投票治理&lt;/a&gt;的少数进步的DAO之一；相反，治理是基于 &amp;quot;公民 &amp;quot;NFT的投票计划，并且已经有想法通过使用&lt;a href=&#34;https://www.proofofhumanity.id/&#34;&gt;人性证明验证&lt;/a&gt;将投票进一步限制为每人一票。NFTs目前正在出售，以便为该项目众筹资金；你可以在OpenSea上购买。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/23487195805935260354348650824724952235377320432154855752878351301067508033245&#34;&gt;
+&lt;img src=&#34;https://vitalik.ca/images/cities/citydao.png&#34; alt=&#34;&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;我认为城市可能要做什么&#34;&gt;我认为城市可能要做什么？&lt;/h2&gt;
+&lt;p&gt;显然，城市在原则上有很多事情可以做。他们可以增加更多的自行车道，他们可以使用&lt;a href=&#34;https://www.abc.net.au/news/health/2021-09-11/covid-transmission-co2-carbon-dioxide-monitor-ventilation-school/100444884&#34;&gt;二氧化碳测量仪&lt;/a&gt;和&lt;a href=&#34;https://www.colorado.edu/today/2021/10/04/specific-uv-light-wavelength-could-offer-low-cost-safe-way-curb-covid-19-spread&#34;&gt;远紫外线灯&lt;/a&gt;来更有效地减少COVID的传播，而不会给人们带来不便，他们甚至可以资助延长生命的研究。但我的主要专业是区块链，这篇文章是关于区块链的，所以......让我们专注于区块链。&lt;/p&gt;
+&lt;p&gt;我认为，有两类不同的区块链想法是有意义的。&lt;/p&gt;
+&lt;p&gt;1.使用区块链来创建&lt;strong&gt;更可信、更透明、更可核查的现有流程版本&lt;/strong&gt;。
+2.利用区块链对土地和其他稀缺资产实施&lt;strong&gt;新的和实验性的所有权形式，以及&lt;/strong&gt;新的和实验性的民主治理形式。&lt;/p&gt;
+&lt;p&gt;区块链和这两个类别之间存在着自然的契合。在区块链上发生的任何事情都很容易公开验证，有很多现成的免费工具可以帮助人们做到这一点。任何建立在区块链上的应用程序都可以立即插入并与整个全球区块链生态系统中的其他应用程序对接。基于区块链的系统在某种程度上是高效的，而纸张则不然，并且可以公开验证，而集中式计算系统则不然--如果你想，比如说，做一种新的投票形式，让公民对数百或数千个不同的问题给予大批量的实时反馈，这是一个必要的组合。&lt;/p&gt;
+&lt;p&gt;因此，让我们来了解一下具体情况。&lt;/p&gt;
+&lt;p&gt;###区块链可以使哪些现有流程更加可信和透明？&lt;/p&gt;
+&lt;p&gt;很多人，包括世界各地的政府官员，在很多场合向我提出了一个简单的想法，那就是政府创建一个白名单的内部使用的稳定币，用于跟踪政府的内部支付。个人或组织的每一笔税款都可以与公开可见的链上记录联系起来，铸造该数量的硬币(如果我们想让个人的税款数量保密，有&lt;a href=&#34;https://vitalik.ca/general/2021/01/26/snarks.html&#34;&gt;零知识的方法&lt;/a&gt;可以只公开总数，但仍然让大家相信它是正确计算的)。部门之间的转账可以在 &amp;quot;透明 &amp;quot;的情况下进行，而硬币只能由个别承包商或雇员在申请他们的付款和工资时赎回。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://vitalik.ca/images/cities/govcoin.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这个系统可以很容易地被扩展。例如，选择哪个投标人赢得政府合同的采购过程在很大程度上可以在链上完成。&lt;/p&gt;
+&lt;p&gt;更多的过程可以通过区块链变得更加值得信赖。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;公平的随机数发生器(例如，用于彩票)&lt;/strong&gt; - &lt;a href=&#34;https://www.youtube.com/watch?v=9-77V1IareQ&#34;&gt;VDFs&lt;/a&gt;，如以太坊预计包括的VDFs，可作为公平的随机数发生器，可用于使政府管理的彩票更值得信赖。公平的随机性也可用于许多其他用例，如&lt;a href=&#34;https://en.wikipedia.org/wiki/Sortition&#34;&gt;sortition&lt;/a&gt;作为政府的一种形式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;证书&lt;/strong&gt;，例如某些特定的个人是城市居民的加密证明，可以在链上进行，以增加可验证性和安全性(例如，如果这种证书是在链上颁发的，如果有大量的假证书被颁发，就会变得很明显)。这可以被所有类型的地方政府颁发的证书所使用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资产登记处&lt;/strong&gt;，用于土地和其他资产，以及更复杂形式的财产所有权，如开发权。由于法院需要能够在特殊情况下进行转让，这些登记处可能永远不会像加密货币那样成为完全去中心化的无记名票据，但将记录放在链上仍然可以使人们更容易看到在争端中以何种顺序发生。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最终，甚至***投票也可以在链上完成。在这里，&lt;a href=&#34;https://vitalik.ca/general/2021/05/25/voting2.html&#34;&gt;许多复杂性和龙隐约可见&lt;/a&gt;，而且真的要小心；需要一个结合区块链、零知识证明和其他密码学的复杂解决方案来实现所有理想的隐私和安全属性。然而，如果人类要转向电子投票，地方政府似乎是一个完美的开始。&lt;/p&gt;
+&lt;h2 id=&#34;有哪些激进的经济和治理实验可能是有趣的&#34;&gt;有哪些激进的经济和治理实验可能是有趣的？&lt;/h2&gt;
+&lt;p&gt;但除了这些类型的区块链叠加到政府已经做的事情上，我们也可以把区块链看作是政府在经济和治理方面进行全新和激进实验的机会。这些不一定是关于我认为应该做什么的最终想法；它们更多是对可能方向的初步探索和建议。一旦实验开始，现实世界的反馈往往是迄今为止最有用的变量，以确定未来应如何调整实验。&lt;/p&gt;
+&lt;h3 id=&#34;实验一更全面的城市代币愿景&#34;&gt;实验一：更全面的城市代币愿景&lt;/h3&gt;
+&lt;p&gt;CityCoins.co是关于城市代币如何运作的一个愿景。但它远远不是唯一的愿景。事实上，CityCoins.so的做法有很大的风险，特别是在经济模式如何向早期采用者严重倾斜。STX从铸造新币中获得的70%的收入都给了现有的城市币持有者。在未来五年内&lt;a href=&#34;https://docs.citycoins.co/citycoins-core-protocol/issuance-schedule&#34;&gt;将发行&lt;/a&gt;更多的硬币，比之后的五十年都要多。这对2021年的政府来说是笔好买卖，但2051年呢？一旦政府认可了某个城市的硬币，它就很难在未来改变方向。因此，城市政府必须仔细考虑这些问题，并选择一条对长远发展有意义的道路。&lt;/p&gt;
+&lt;p&gt;**以下是关于城市代币如何运作的一个不同的可能草图。**这远不是CityCoins.co愿景的唯一可能的替代方案；参见Steve Waldman的&lt;a href=&#34;https://www.interfluidity.com/v2/7513.html&#34;&gt;优秀文章&lt;/a&gt;，他主张建立一个城市本地化的交换媒介，以了解另一个可能方向。无论如何，城市代币是一个广泛的设计空间，有许多不同的选择值得考虑。总之，在这里...&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;目前形式的房屋所有权概念是一把引人注目的双刃剑，积极鼓励和合法构建房屋所有权的具体方式被许多人认为是我们今天正在犯的&lt;a href=&#34;https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake&#34;&gt;最大的经济政策错误之一&lt;/a&gt;。**在作为生活场所的房屋和作为投资资产的房屋之间存在着不可避免的政治紧张关系，而满足关心后者的社区的压力往往最终严重损害了前者的可负担性。一个城市的居民要么拥有房屋，使他们大量地过度暴露于土地价格，并引入不正当的动机来反对新的房屋建设；要么租房，使他们消极地暴露于房地产市场，从而使他们在经济上与使一个城市成为一个好的居住地的目标相悖。&lt;/p&gt;
+&lt;p&gt;但是，即使存在所有这些问题，许多人仍然认为房屋所有权不仅是一个良好的个人选择，而且是值得积极补贴或社会鼓励的事情。一个重要的原因是，它促使人们存钱并建立起他们的净资产。另一个重要原因是，尽管它有缺陷，但它在居民和他们居住的社区之间创造了经济上的一致性。**但是，如果我们能给人们提供一种储蓄的方式，并在没有缺陷的情况下创造经济上的一致性呢？如果我们能创造一种可分割和可替换的城市代币，居民可以根据自己的经济能力或感觉舒适的程度持有多少单位，并且其价值随着城市的繁荣而上升呢？&lt;/p&gt;
+&lt;p&gt;首先，让我们从一些可能的目标开始。并非所有的目标都是必要的；一个代币只完成了五个目标中的三个就已经是很大的进步了。但我们会尽可能多地击中它们。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;为政府获得可持续的收入来源&lt;/strong&gt;。城市象征性的经济模式应该避免重新调整现有的税收，相反，它应该寻找新的收入来源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创造居民和城市之间的经济对接&lt;/strong&gt;。这首先意味着，随着城市变得更有吸引力，硬币本身显然应该变得更有价值。但这也意味着，经济学应该积极鼓励居民持有硬币，而不是遥远的对冲基金。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;促进储蓄和财富积累&lt;/strong&gt;。房屋所有权可以做到这一点：当房屋所有者支付抵押贷款时，他们会默认建立起他们的净资产。城市代币也可以做到这一点，使其具有吸引力，随着时间的推移积累硬币，甚至将这种经验游戏化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;鼓励更多的亲社会活动&lt;/strong&gt;，如帮助城市的积极行动和更可持续的资源利用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要平等主义&lt;/strong&gt;。不要过分偏袒富人而不是穷人(设计不良的经济机制往往会意外地这样)。代币的可分割性，避免了富人和穷人之间尖锐的二元划分，已经做了很多，但我们可以更进一步，例如，将新发行的很大一部分分配给居民作为UBI。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有一种模式似乎很容易满足前三个目标，那就是为持有者提供好处：如果你至少持有X个硬币(其中X可以随着时间的推移而增加)，你就可以免费得到一些服务。迈阿密币正试图鼓励企业这样做，但我们可以更进一步，让政府服务也以这种方式运作。一个简单的例子是，让现有的公共停车位只提供给那些至少持有一定数量的锁定硬币的人免费使用。这将同时满足几个目标。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;创造一个&lt;strong&gt;的激励机制来持有硬币&lt;/strong&gt;，维持其价值。&lt;/li&gt;
+&lt;li&gt;建立一个&lt;strong&gt;的激励机制，专门针对居民持有硬币的&lt;/strong&gt;，而不是其他被统一的远方投资者。此外，激励措施的作用在每个人身上都有上限，所以它鼓励广泛分布的持有。&lt;/li&gt;
+&lt;li&gt;创造了&lt;strong&gt;经济的一致性&lt;/strong&gt;(城市变得更有吸引力--更多的人想要停车--硬币有更多的价值)。&lt;strong&gt;与房屋所有权不同，这创造了与整个城镇&lt;/strong&gt;的一致性，而不仅仅是城镇中的一个非常具体的位置。&lt;/li&gt;
+&lt;li&gt;鼓励资源的可持续利用**：这将减少停车位的使用(尽管没有硬币但真正需要的人仍然可以支付)，支持许多地方政府的愿望，在道路上开辟更多的空间，使之更适合行人。另外，也可以允许餐馆通过同样的机制锁住硬币，并要求将停车位用于室外座位。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但是，为了避免不正当的激励，避免过度依赖一个特定的想法，而是要有一个多样化的可能的收入来源，这一点极其重要。&lt;strong&gt;一个可以赋予城市代币价值，同时又可以尝试新的治理理念的绝佳金矿是分区&lt;/strong&gt;。如果你持有至少Y个硬币，那么你可以对附近的土地所有者为绕过分区限制而必须支付的费用进行四次投票。这种基于市场+直接民主的混合方法将比目前过于繁琐的许可程序有效得多，而且费用本身将成为政府收入的另一个来源。更广泛地说，下一节中的任何想法都可以与城市代币结合起来，让城市代币持有者有更多地方可以使用。&lt;/p&gt;
+&lt;h3 id=&#34;实验二更激进和参与性的治理形式&#34;&gt;实验二：更激进和参与性的治理形式&lt;/h3&gt;
+&lt;p&gt;这就是&lt;a href=&#34;https://vitalik.ca/general/2018/04/20/radical_markets.html&#34;&gt;激进市场&lt;/a&gt;的想法，如哈伯格税、&lt;a href=&#34;https://vitalik.ca/general/2019/12/07/quadratic.html&#34;&gt;二次投票和二次融资&lt;/a&gt;的作用。我已经在上面的章节中提出了其中的一些想法，但你不一定要有专门的城市令牌来做这些。政府对二次元投票和资金的一些有限使用已经发生：见&lt;a href=&#34;https://www.wired.com/story/colorado-quadratic-voting-experiment/&#34;&gt;科罗拉多州民主党&lt;/a&gt;和&lt;a href=&#34;https://presidential-hackathon.taiwan.gov.tw/2020/en/&#34;&gt;台湾总统黑客马拉松&lt;/a&gt;，以及尚未由政府支持的实验，如Gitcoin的&lt;a href=&#34;http://web.archive.org/web/20210304144119/https://downtownstimulus.com/&#34;&gt;博尔德市区刺激计划&lt;/a&gt;。但我们可以做得更多!&lt;/p&gt;
+&lt;p&gt;这些想法可以产生长期价值的一个明显的地方是给开发商提供激励，以改善他们正在建造的&lt;strong&gt;建筑的美学(见&lt;a href=&#34;https://www.bloomberg.com/opinion/articles/2021-10-05/urban-design-why-can-t-we-build-nice-neighborhoods-anymore&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;https://astralcodexten.substack.com/p/whither-tartaria&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;https://www.currentaffairs.org/2021/04/when-is-the-revolution-in-architecture-coming&#34;&gt;here&lt;/a&gt;和&lt;a href=&#34;https://twitter.com/noahpinion/status/1287084300542676992?lang=en&#34;&gt;here&lt;/a&gt;一些最近的专业吹捧者辩论现代建筑的美学的例子)。哈伯格税和其他机制可以用来彻底改革&lt;/strong&gt;区的&lt;strong&gt;规则，区块链可以用来以更值得信赖和有效的方式管理这种机制。另一个在短期内更可行的想法是&lt;/strong&gt;对当地企业的补贴，类似于市中心的刺激措施，但规模更大、更持久。企业在当地社区一直产生各种积极的外部因素，这些外部因素可以得到更有效的奖励。&lt;strong&gt;本地新闻&lt;/strong&gt;可以得到四倍的资助，振兴一个长期挣扎的行业。**广告的定价可以根据人们对每个特定广告的喜爱程度的实时投票来确定，鼓励更多的原创性和创造性。&lt;/p&gt;
+&lt;p&gt;更多的民主反馈(甚至可能是&lt;a href=&#34;https://www.youtube.com/watch?v=8rb904_OJj0&#34;&gt;追溯&lt;/a&gt;民主反馈！)似乎可以在所有这些领域创造更好的激励。而&lt;strong&gt;21世纪的数字民主通过实时在线二次投票和资助，似乎可以比20世纪的民主做得更好，20世纪的民主在实践中似乎主要是以僵硬的建筑法规和在规划和许可听证会上的阻挠为特征&lt;/strong&gt;。当然，如果你要用区块链来保证投票的安全，那么从花哨的新型投票开始做起，似乎比重新改装现有的投票系统要安全得多，政治上也可行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://vitalik.ca/images/cities/solarpunk.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;强制性的solarpunk图片旨在唤起一个积极的形象，即如果实时二次投票可以为所有东西设定补贴和价格，我们的城市会发生什么。&lt;/p&gt;
+&lt;p&gt;##结论&lt;/p&gt;
+&lt;p&gt;有很多值得城市尝试的想法，可以由现有城市或新城市尝试。当然，新城市的优势是没有现有的居民，他们对事情应该如何做有现有的期望；但在现代，创建一个新城市的概念本身是相对未经测试的。也许那些热衷于尝试新事物的人和项目手中的数十亿美元的资金池可以让我们克服困难。但即使如此，在可预见的未来，现有的城市可能会继续成为大多数人居住的地方，而现有的城市也可以使用这些想法。&lt;/p&gt;
+&lt;p&gt;**区块链在这里提出的更多增量和更多激进的想法中都非常有用，尽管城市政府本质上是 &amp;quot;可信的&amp;quot;。**在链上运行任何新的或现有的机制，使公众有能力轻松验证一切是否遵循规则。公共链是更好的：从现有的基础设施中，用户独立验证正在发生的事情的好处远远超过了交易费用的损失，预计很快就会从&lt;a href=&#34;https://vitalik.ca/general/2021/01/05/rollup.html&#34;&gt;rollups&lt;/a&gt;和&lt;a href=&#34;https://vitalik.ca/general/2021/04/07/sharding.html&#34;&gt;sharding&lt;/a&gt;快速减少。如果需要强大的隐私，区块链可以结合&lt;a href=&#34;https://vitalik.ca/general/2021/01/26/snarks.html&#34;&gt;零知识密码学&lt;/a&gt;，同时给予隐私和安全。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;政府应该避免的主要陷阱是过快地牺牲选择权&lt;/strong&gt;。一个现有的城市可能会落入这个陷阱，推出一个糟糕的城市代币，而不是慢慢来，推出一个好的。一个新的城市可能会因为卖掉太多土地而落入这个陷阱，为一小部分早期采用者牺牲掉整个上升空间。从独立的实验开始，在真正不可逆转的行动上慢慢来，是最理想的。但与此同时，首先抓住机会也很重要。城市有很多可以和应该改进的地方，也有很多机会；尽管有挑战，但加密城市广泛是一个时代已经到来的想法。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>

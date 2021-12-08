@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gaoxuan.cn/posts/</loc>
-    <lastmod>2021-12-02T22:19:53+08:00</lastmod>
+    <loc>https://gaoxuan.cn/about/</loc>
+    <lastmod>2021-12-08T13:03:03+08:00</lastmod>
   </url><url>
-    <loc>http://gaoxuan.cn/posts/top-12-things-that-destroy-developer-productivity/</loc>
-    <lastmod>2021-12-02T22:19:53+08:00</lastmod>
+    <loc>https://gaoxuan.cn/</loc>
+    <lastmod>2021-12-08T11:49:29+08:00</lastmod>
   </url><url>
-    <loc>http://gaoxuan.cn/</loc>
-    <lastmod>2021-12-02T22:19:53+08:00</lastmod>
+    <loc>https://gaoxuan.cn/posts/</loc>
+    <lastmod>2021-12-08T11:49:29+08:00</lastmod>
   </url><url>
-    <loc>http://gaoxuan.cn/posts/conways-law-a-theoretical-basis-for-the-microservice-architecture/</loc>
-    <lastmod>2021-12-02T00:13:35+08:00</lastmod>
+    <loc>https://gaoxuan.cn/posts/top-12-things-that-destroy-developer-productivity/</loc>
+    <lastmod>2021-12-08T11:49:29+08:00</lastmod>
   </url><url>
-    <loc>http://gaoxuan.cn/posts/write-code-every-day/</loc>
-    <lastmod>2021-11-21T23:29:11+08:00</lastmod>
+    <loc>https://gaoxuan.cn/posts/conways-law-a-theoretical-basis-for-the-microservice-architecture/</loc>
+    <lastmod>2021-12-02T22:50:03+08:00</lastmod>
   </url><url>
-    <loc>http://gaoxuan.cn/posts/crypto-cities/</loc>
-    <lastmod>2021-11-12T20:45:22+08:00</lastmod>
+    <loc>https://gaoxuan.cn/posts/write-code-every-day/</loc>
+    <lastmod>2021-11-21T23:36:04+08:00</lastmod>
   </url><url>
-    <loc>http://gaoxuan.cn/categories/</loc>
+    <loc>https://gaoxuan.cn/posts/crypto-cities/</loc>
+    <lastmod>2021-12-02T23:15:19+08:00</lastmod>
   </url><url>
-    <loc>http://gaoxuan.cn/tags/</loc>
+    <loc>https://gaoxuan.cn/categories/</loc>
+  </url><url>
+    <loc>https://gaoxuan.cn/tags/</loc>
   </url>
 </urlset>
