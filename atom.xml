@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">higxuan</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-12-08T13:09:56&#43;08:00</updated>
+    <updated>2021-12-08T13:14:22&#43;08:00</updated>
     <id>https://gaoxuan.cn/</id>
     <link rel="alternate" type="text/html" href="https://gaoxuan.cn/" />
     <link rel="self" type="application/atom&#43;xml" href="https://gaoxuan.cn/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">破坏开发者生产力的12件事</title>
             <link rel="alternate" type="text/html" href="https://gaoxuan.cn/posts/top-12-things-that-destroy-developer-productivity/" />
             <id>https://gaoxuan.cn/posts/top-12-things-that-destroy-developer-productivity/</id>
-            <updated>2021-12-08T11:49:29&#43;08:00</updated>
+            <updated>2021-12-08T13:14:15&#43;08:00</updated>
             <published>2021-12-02T22:19:53&#43;08:00</published>
             <author>
                     <name>higxuan</name>
@@ -65,8 +65,8 @@
 &lt;p&gt;技术债务是指为了更快地发布软件而故意决定实施不是最好的解决方案或编写不是最好的代码。承担一些技术债务是不可避免的，在短期内可以提高软件开发的速度。然而，从长远来看，它有助于提高系统的复杂性，从而拖慢开发人员的速度。非程序员往往低估了生产力的损失，并倾向于总是向前推进，这就成了一个问题。但是，如果重构从来不是优先事项的一部分，它不仅会影响生产力，也会影响产品质量。&lt;/p&gt;
 &lt;h3 id=&#34;10-工具的多重性和硬件&#34;&gt;10) 工具的多重性和硬件&lt;/h3&gt;
 &lt;p&gt;开发人员每天使用许多工具来编程、推送和合并他们的代码。自动化程度越高越好。不言而喻，如果你使用 &amp;quot;古老 &amp;quot;的工具，这将影响你的生产力。同样，拥有一个大屏幕与只有一台笔记本电脑也会产生影响。考虑到硬件的成本和开发人员的工资，只要有5%的生产力提高，在这一点上，任何投资都是值得的!只要给你的开发者团队喜欢的工具和硬件（单独的硬件，但作为一个团体的工具）。&lt;/p&gt;
-&lt;h3 id=&#34;11-如何-文件&#34;&gt;11) &amp;quot;如何 &amp;quot;文件&lt;/h3&gt;
-&lt;p&gt;当我们学习如何编码时，我们被告知要尽早和经常发表评论。这个想法是，有太多的注释比有太少的注释要好。不幸的是，许多程序员错误地将此理解为他们必须对每一行代码进行注释，这就是为什么我们经常看到这样的代码（来自Jeff Atwood在&lt;a href=&#34;https://blog.codinghorror.com/coding-without-comments/&#34;&gt;&amp;quot;Coding Without Comments&amp;quot;&lt;/a&gt;上的文章）。&lt;/p&gt;
+&lt;h3 id=&#34;11-如何-注释代码&#34;&gt;11) &amp;quot;如何 &amp;quot;注释代码&lt;/h3&gt;
+&lt;p&gt;当我们学习如何编码时，我们被告知要尽早和经常写注释。这个想法是，有太多的注释比有太少的注释要好。不幸的是，许多程序员错误地将此理解为他们必须对每一行代码进行注释，这就是为什么我们经常看到这样的代码（来自Jeff Atwood在&lt;a href=&#34;https://blog.codinghorror.com/coding-without-comments/&#34;&gt;&amp;quot;Coding Without Comments&amp;quot;&lt;/a&gt;上的文章）。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;r = n / 2; // 设置r为n除以2&lt;/p&gt;
 &lt;/blockquote&gt;
